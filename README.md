@@ -76,7 +76,7 @@ flowchart TB
 
 ```bash
 # Clone the repository
-git clone https://github.com/ahsanrazakhan/global-logistics-intelligence-hub.git
+git clone https://github.com/cse-ahsankhan/global-logistics-intelligence-hub.git
 cd global-logistics-intelligence-hub
 
 # Create virtual environment
